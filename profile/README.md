@@ -4,6 +4,5 @@
 * Open Source Teil der Tamedhon Mudlib
 * qTame - der Tamedhon MUD Client
 * Scripte, die zum Betrieb nützlich sind
-* UTF-8 und TLS fähiges TinyFugue
 
 ### https://www.tamedhon.de
