@@ -3,7 +3,6 @@
 * die verwendete LDmud Version
 * Open Source Teil der Tamedhon Mudlib
 * Der angepasste WL Webclient
-* qTame - der Tamedhon MUD Client
 * Die Android App
 * Scripte, die zum Betrieb nützlich sind
 
